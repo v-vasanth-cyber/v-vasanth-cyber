@@ -50,3 +50,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - SOC Home Lab
 - Active Directory Project (Home Lab)
 - SOC Automation Project (Home Lab)
+- Incident Response - Phishing Incident Alert Ticket

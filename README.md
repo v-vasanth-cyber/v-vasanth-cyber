@@ -6,7 +6,7 @@ I am a graduate with a profound interest in technology and a dedication to solvi
 
 ## Objectives
 
-My journey in computer science has led me to develop a passion for cybersecurity,I Have 2 years of experience as an IT Syatem Support and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, I have 2 years of experience as an IT Syatem Support and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
